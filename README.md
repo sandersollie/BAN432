@@ -2,7 +2,7 @@
 
 
 # editing this file online
-# testing out github collaboration
+# testing out github collaboration - edit offline
 
 <<<<<<< HEAD
 
